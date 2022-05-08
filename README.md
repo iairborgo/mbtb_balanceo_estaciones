@@ -54,6 +54,6 @@ También pensando otra idea fue que, si tuviese el acceso a data en tiempo real,
 
 
 
-#### ***Este trabajo utilizó partes de otros compartido bajo código abierto***
+#### ***Este trabajo utilizó partes de otros que fueron compartidos bajo código abierto***
 #### ***Contacto***: iairborgo@gmail.com
 
