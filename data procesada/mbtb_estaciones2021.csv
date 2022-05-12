@@ -1,0 +1,73 @@
+id,station_code,name,description,address,lat,lon,capacity
+1,1,Museo Castagnino,"Museo Castagnino, Bv. Oroño 1675",Oroño 1658,-32.95421439665977,-60.655986964702606,20
+2,2,Paseo Pellegrini,"Paseo Pellegrini, Av. Pellegrini 1365",Av. Pellegrini 1377,-32.956663076908484,-60.64486920833588,20
+3,3,Plaza López,"Plaza López, Pellegrini  779",Pellegrini  779,-32.95812144981906,-60.63670188188553,20
+4,4,Fac. de Ingeniería,"Fac. de Ingeniería, Av. Pellegrini 280",Av. Pellegrini 280,-32.959215213707765,-60.62944918870926,20
+5,5,Ciudad Univ. I,"Ciudad Univ. I, Riobamba 239 BIS",Riobamba 239 BIS,-32.96736625395059,-60.62357246875763,21
+6,6,Ciudad Univ. II,"Ciudad Univ. II, Berruti 2271",Berruti 2271,-32.96850040867347,-60.62398016452789,16
+7,7,Terminal,"Terminal, Cafferata 723",Cafferata 723,-32.93944885753075,-60.67054331302643,21
+8,8,Fac. Medicina,"Fac. Medicina, Av. Francia 723",Av. Francia 723,-32.9403492658816,-60.665243268013,21
+9,9,Pueyrredón,"Pueyrredón, Pueyrredón 1023",Pueyrredón 1023,-32.94573801821987,-60.65809518098831,12
+10,10,Fac. Ciencias Económicas,"Fac. Ciencias Económicas, Bv. Oroño 1283",Bv. Oroño 1283,-32.94996730598237,-60.654785335063934,20
+11,11,Plaza San Martín,"Plaza San Martín, Mariano Moreno 779",Mariano Moreno 779,-32.94402733877261,-60.65053671598434,20
+12,12,Plaza Pringles,"Plaza Pringles, Córdoba 1551",Córdoba 1551,-32.94531035146112,-60.644497722387314,20
+13,14,Plaza Montenegro,"Plaza Montenegro, San Luis 1020",San Luis 1020,-32.9493843560409,-60.63740864396095,21
+14,13,Plaza Sarmiento,"Plaza Sarmiento, Entre Rios 1016",Entre Rios 1016,-32.94882616098827,-60.641776621341705,20
+15,15,Plaza 25 de Mayo,"Plaza 25 de Mayo, Córdoba 720",Córdoba 720,-32.94755220262625,-60.63288778066635,20
+16,16,Pichincha,"Pichincha, Bv. Oroño 173",Bv. Oroño 173,-32.936590000253865,-60.65140575170517,20
+17,17,Distrito Centro,"Distrito Centro, Wheelwright 1587",Wheelwright 1587,-32.935878648179575,-60.64261347055435,20
+18,18,Parque España,"Parque Españaa, Dr. Mario Armas 1005",Dr. Mario Armas 1005,-32.94099755421734,-60.63473045825958,20
+21,19,Parque Independencia I,"Parque Independencia I, Av. Pellegrini 2775",Av. Pellegrini 2775,-32.95358421061909,-60.66343545913696,12
+22,33,HECA / UCA,HECA / UCA; Av. Pellegrini 3275,Av. Pellegrini 3275,-32.95206724436681,-60.67079275846481,20
+23,31,Parque Independencia II,Parque Independencia II; Av. J Coronado 2667,Av. J Coronado 2667,-32.96512040461018,-60.65592795610428,20
+24,36,Parque de la Arenera,Parque de la Arenera; Av. Estanislao López 2861,Av. Estanislao López 2861,-32.92663505330592,-60.65880596637726,20
+25,28,Plaza Suecia,Plaza Suecia; Bv. Oroño 239 bis,Bv. Oroño 239 bis,-32.93184904583995,-60.65018132328987,20
+26,26,Gimnasio UNR,Gimnasio UNR; Mariano Moreno 483,Mariano Moreno 483,-32.94041229412281,-60.64960062503815,20
+27,21,Abasto,"Abasto, Entre Ríos 2230",Entre Ríos 2230,-32.962680960480846,-60.64523935317993,20
+28,32,Parque Hipólito Yrigoyen,"Parque Hipólito Yrigoyen, 27 de Febrero 880",27 de Febrero 880,-32.96806835144843,-60.64059376716614,16
+29,22,República de la Sexta,"República de la Sexta, Buenos Aires 2181",Buenos Aires 2181,-32.96399070730771,-60.63680648803711,20
+30,24,Barrio Martin,Barrio Martin; Mendoza 391,Mendoza 391,-32.95339515393067,-60.62930703163147,16
+31,25,Pichincha II,"Pichincha II, Salta 2820",Salta 2820,-32.935162788101124,-60.65977692604065,20
+32,27,Plaza Cooperación,Plaza Cooperación; Tucuman 1221,Tucuman 1221,-32.94162782998716,-60.63880205154419,20
+33,29,Barrio Parque,Barrio Parque; Av. Francia 2270,Av. Francia 2270,-32.95894064873677,-60.67002296447754,12
+34,30,Estadio Municipal,Club Provincial; 27 de Febrero 2700,27 de Febrero 2700,-32.963612638052126,-60.66525936126709,20
+35,34,CC Echesortu,CC Echesortu; Mendoza 3481,Mendoza 3481,-32.94575602519591,-60.672104358673096,20
+36,20,Paseo Pellegrini II,Paseo Pellegrini II; Av. Pellegrini 1851,Av. Pellegrini 1851,-32.9556277975818,-60.65117239952088,20
+37,49,Club Provincial,Club Provincial; Bv. Oroño 3180,Bv. Oroño 3180,-32.971511248782775,-60.6603080034256,16
+38,37,Barrio Hospitales,Barrio Hospitales; Rueda 1128,Rueda 1128,-32.97084968284816,-60.64461708068848,20
+39,38,Parque Hipólito Yrigoyen II,Parque Hipólito Yrigoyen II; Além 2624,Além 2624,-32.96977681526667,-60.633952617645264,16
+40,51,Plaza Gral. Toribio de Luzuriaga,Plaza Gral. Toribio de Luzuriaga; Av. San Martín 3427,Av. San Martín 3427 y Uruguay,-32.97733374029842,-60.64409136772156,16
+41,41,Pellegrini y Avellaneda,"Pellegrini y Avellaneda, Av. Pellegrini 4079", Av. Pellegrini 4079,-32.95019913442736,-60.68156719207764,12
+42,44,Puerto Norte,Puerto Norte; Carballo 184,Carballo 184,-32.92301479484789,-60.66567778587341,20
+43,47,Lagos y Segui,Lagos y Segui; Ov. Lagos 3581,Ov. Lagos 3581 y Segui,-32.974683996129144,-60.669100284576416,16
+44,50,Barrio Matheu,Barrio Matheu; Bv. Segui 1319,Bv. Segui 1319 y Entre Ríos,-32.978554143531696,-60.649391412734985,16
+45,45,CC Echesortu II,CC Echesortu II; Mendoza 4085,Mendoza 4085 y Av. Avellaneda,-32.944418997251766,-60.68002223968506,20
+46,39,Bella Vista,Bella Vista; Bv. Avellaneda 2389,Bv. Avellaneda 2389 y Godoy,-32.957783865637914,-60.68373441696167,12
+47,43,Alto Rosario,Alto Rosario; Junin 491,Junin 391,-32.92653599347845,-60.6690788269043,20
+48,48,Oroño y Segui,Oroño y Segui; Bv. Segui 2186,Bv. Segui 2186,-32.97646608507204,-60.66103219985962,16
+49,52,Plaza Eva Duarte de Perón,Plaza Eva Duarte de Perón; Ayacucho 3385 ,Ayacucho 3385 y Ayolas,-32.97858114396427,-60.63432276248932,20
+50,42,Refinería,Refinería; Bv. Avellaneda 518 BIS,Bv. Avellaneda  518 BIS y Carballo,-32.92171051403622,-60.67459104854584,16
+51,46,Arroyito,"Barrio Arroyito, Bv. Avellaneda 1006 BIS",Bv. Avellaneda 1006 BIS y J. Ingenieros,-32.916072619129054,-60.673173501081465,16
+52,35,Barrio Agote,"Barrio Agote, Salta 3228",Salta 3228,-32.934106315234914,-60.66570220787048,20
+53,40,Cinco esquinas,"Cinco Esquinas, Riobamba 3585",Riobamba 3585  y San Nicolás ,-32.95708325593757,-60.676323755569456,12
+54,23,Barrio Lourdes,Barrio Lourdes; Mendoza 2771,Mendoza 2771,-32.947594287181566,-60.662102683372495,20
+57,53,Avellaneda y Córdoba,Avellaneda y Córdoba,Avellaneda 835,-32.939457,-60.679149,20
+58,54,Distrito Oeste,"Distrito Oeste, Av. Pte. Perón 4602",Av. Pte. Perón 4602,-32.9581866,-60.6913242,20
+60,56,Portal Rosario,"Portal Rosario, Nansen 335",Nansen 335,-32.9093257,-60.6833951,20
+62,57,Lisandro de la Torre,"Lisandro de la Torre, Bv. Rondeau 112",Bv. Rondeau 112,-32.91422795893311,-60.68635056866098,21
+67,60,Plaza Alberdi,"Plaza Alberdi, Bv. Rondeau 1950",Bv. Rondeau 1950,-32.894645560577175,-60.69265425549448,20
+68,59,Rondeau y Washington,"Rondeau y Washington, Bv. Rondeau 1365",Bv. Rondeau 1365,-32.9004262817609,-60.69081468532575,16
+69,55,PAMI II,"PAMI II, Olivé 1175",Olivé 1175,-32.91293717782394,-60.68009608761775,20
+70,61,La Rambla,"La Rambla, Av. Eudoro Carrasco 2034",Av. Eudoro Carrasco 2034,-32.89180515414552,-60.68577111042986,42
+71,62,La Florida,"La Florida, Av. Eudoro Carrasco 3226",Av. Eudoro Carrasco 3226,-32.88490773761225,-60.68735302130976,20
+72,63,Parque Alem,"Parque Alem, Av. Frondizi 3163",Av. Frondizi 335,-32.910503,-60.677572,20
+73,58,Rondeau y Sorrento,"Rondeau y Sorrento, Bv. Rondeau 883",Bv. Rondeau 883,-32.906549276588485,-60.6889224677472,16
+74,64,Mendoza y Sucre," Mendoza y Sucre, Mendoza 4881",Mendoza 4881,-32.942375,-60.691032,20
+75,65,Plaza Azcuénaga,"Plaza Azcuénaga, Mendoza 5335",Mendoza 5335,-32.941427,-60.696252,20
+76,66,Mendoza y Magallanes,"Mendoza y Magallanes, Mendoza 6043",Mendoza 6043,-32.940079,-60.705073,20
+77,67,Cuatro Plazas,"Cuatro Plazas, Mendoza 6591",Mendoza 6591,-32.940247,-60.711147,20
+78,68,Provincias Unidas y Eva Perón,Av. Provincias Unidas y Eva Perón,Av. Provincias Unidas 410,-32.933226,-60.713076,20
+82,69,Distrito Noroeste,Distrito Noroeste,Av. Provincias Unidas 150 bis,-32.928205,-60.712881,20
+83,70,Rondeau y Ricardo Núñez,"Rondeau e Hipólito Yrigoyen, Bv. Rondeau 3263",Bv. Rondeau 3263,-32.884702,-60.695824,20
+84,71,Rondeau y Martín Fierro,"Rondeau y Martín Fierro, Bv. Rondeau 3967",Bv. Rondeau 3967,-32.878274,-60.697782,20
+85,72,Costa Alta,"Costa Alta, Av. Eudoro Carrasco 4217",Av. Eudoro Carrasco 4217,-32.8736414,-60.6890764,20
