@@ -1,2 +1,1 @@
-data catboost/* linguist-vendored
-data procesada/* linguist-vendored
+*.* linguist-language=Java
