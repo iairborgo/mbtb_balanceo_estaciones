@@ -114,7 +114,7 @@ gs.best_score_
 gs.best_params_ # {'depth': 4, 'iterations': 750, 'learning_rate': 0.12}
 
 catB = CatBoostClassifier(depth = 4, learning_rate = 0.12, iterations = 750) 
-catB.fit(x_train, y_train, eval_set = (x_test, y_test))
+catB.fit(x_train, y_train, eval_set = (x_test, y_test), cat_features = ("origin_station_id", "dia_salida", "mes", "hr", "min"))
 catB.score(x_test, y_test) # 0.6
 print(catB.feature_importances_) # aca se ve que tanto peso tiene cada varialbe
 
@@ -150,7 +150,7 @@ x2_train, x2_test, y2_train, y2_test = train_test_split(x2, y2, test_size = 0.15
 # knc2.fit(x2_train, y2_train)
 # knc2.score(x2_test, y2_test)
 
-catB2 = CatBoostClassifier(depth = 4, learning_rate = 0.12, iterations = 750)
+catB2 = CatBoostClassifier(depth = 4, learning_rate = 0.12, iterations = 750, , cat_features = ("origin_station_id", "dia_salida", "mes", "hr", "min"))
 catB2.fit(x2_train, y2_train, eval_set = (x2_test, y2_test))
 catB2.score(x2_test, y2_test) 
 
@@ -185,11 +185,12 @@ x3 = x3.drop(columns = "status")
 x3_train, x3_test, y3_train, y3_test = train_test_split(x3, y3, test_size = 0.2, random_state = 0)
 
 catB3 = CatBoostClassifier(depth = 2)
-catB3.fit(x3_train, y3_train, eval_set = (x3_test, y3_test))
+catB3.fit(x3_train, y3_train, eval_set = (x3_test, y3_test), , cat_features = ("origin_station_id", "dia_salida", "mes", "hr", "min"))
 catB3.score(x3_test, y3_test)
 dump(catB3, 'catb_estado.joblib')
 
 #Crea un diccionario (con [] buscas una estacion) para la distancia a otras estaciones (en km).
+# CAMBIAR ESTO A DISTANCIA MANHATTAN
 dic_estaciones = {}
 for estacion in df_estaciones.id.unique().tolist():
     loc1 = (df_estaciones[df_estaciones.id == estacion].lat.values, df_estaciones[df_estaciones.id == estacion].lon.values)
